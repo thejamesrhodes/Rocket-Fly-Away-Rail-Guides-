@@ -32,7 +32,6 @@ Before flight, **ensure that the sliding friction on the rail is not too high**,
 
 Wrap sections print at ≥50% infill with ≥~4 wall lines.
 Any reasonable filament is likely fine, flight tested with PLA 100% infill on a E35 motor with a ~400g mass rocket.
-## License
 
 ---
 
@@ -56,6 +55,11 @@ Any reasonable filament is likely fine, flight tested with PLA 100% infill on a 
 
 ---
 
+## License
+
 Apache 2.0. See LICENSE.
 
+## Safety
+
 This is launch hardware; use it under the safety code of your national rocketry body and local club. I recommend informing the relevant people that you are using an alternate launch guide before flying.
+Stay a safe distance away during launch, as the rail will fly away at reasonable speed and may scatter debris if used improperly.
