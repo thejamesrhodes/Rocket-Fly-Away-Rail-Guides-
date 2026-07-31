@@ -61,6 +61,10 @@ Before flight, **ensure that the sliding friction on the rail is not too high**,
 # Images
 
 <p align="center">
+  <img src="Fly away rocketry rail guide.png" width="400" alt="Project Logo">
+</p>
+
+<p align="center">
 <img src="IMG-20260514-WA0009.jpg" width="400" alt="Project Logo">
 <img src="IMG_20260425_205006.jpg" width="400" alt="Project Logo">
 </p>
