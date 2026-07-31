@@ -8,6 +8,7 @@
 
 Fly-away rail guides for low to mid power rockets. The guide separates from the rocket as it leaves the launch rail so that the airframe does not need to carry any permanent rail buttons or lugs. 
 Current designs are for 30–35 mm airframe OD; other sizes are planned, a tight fit on your exact rockets outer diameter can be ensured by using foam tape or similar.
+
 ✅ **Flight tested twice to approximately 10 g rail acceleration.**
 
 ## Features
