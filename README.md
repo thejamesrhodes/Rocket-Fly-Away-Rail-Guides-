@@ -24,6 +24,7 @@ The wrap sections use a printed plastic hinge as the intended weakest point in t
 
 Push fit the carbon fibre rods into the plastic, it is designed to be able to fall apart during a fin strike to avoid damaging the rocket. Use M2.5 or M3 screws to connect the two sides together with plastic hinges and appropriately sized metal springs.
 Before flight, **ensure that the sliding friction on the rail is not too high**, otherwise your rocket may never make it off the rail. If it is too high, adjust the amount of foam tape used, spring strength and use WD40. I have only tested and dimensioned this for **3030 rail sections**, ensure that this is the rail you are flying on.
+
 ---
 
 ## Printing
